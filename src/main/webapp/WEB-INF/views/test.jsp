@@ -10,6 +10,6 @@
 	hello
 	hi
 	hellojava!@#!@#
-	±ê ¹è½Ã
+	±ê ¹è½Ã0
 </body>
 </html>
